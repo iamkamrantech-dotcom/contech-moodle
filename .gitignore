@@ -1,10 +1,2 @@
-html/cache/
-html/localcache/
-html/temp/
-html/sessions/
-html/trashdir/
-html/filedir/
-html/config.php
 *.log
 .DS_Store
-html/
